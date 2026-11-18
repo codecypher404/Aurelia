@@ -1,0 +1,13 @@
+{
+  "name": "Aurelia Sage Retreat — Coorg Sanctuary & Guest Portal",
+  "short_name": "Aurelia Sage",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF9F6",
+  "theme_color": "#4A5D4E",
+  "description": "Offline-ready luxury eco-resort guest portal, digital guidebook, and smart QR dining in Coorg, Karnataka.",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
